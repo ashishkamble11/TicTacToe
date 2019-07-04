@@ -33,11 +33,6 @@ class TicTacToe
                 printBoard();
                 System.exit(0);
             }
-            /*else if (win == ' ')
-            {
-                System.out.println("It is tie.");
-                System.exit(0);
-            }*/
         }
     }
 
